@@ -97,7 +97,7 @@
     "rimraf": "^2.5.2",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
-    "source-map-support": "^0.4.3",
+    "source-map-support": "^0.4.6",
     "watch": "^1.0.0",
     "webpack": "^1.13.2"
   }
